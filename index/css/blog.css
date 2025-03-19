@@ -1,0 +1,67 @@
+.security-blog {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+}
+
+.container-security {
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.back-link-security {
+  display: block;
+  margin-bottom: 20px;
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.back-link-security:hover {
+  text-decoration: underline;
+}
+
+.blog-header-security h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.author-security {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.author-img-security {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.author-info-security h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.author-info-security p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.blog-content-security p {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.featured-image-security {
+  width: 100%;
+  height: auto;
+  margin-bottom: 5px;
+}
+

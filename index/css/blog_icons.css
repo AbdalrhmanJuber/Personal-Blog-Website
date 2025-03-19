@@ -1,0 +1,35 @@
+figcaption {
+    font-size: 0.8rem;
+    color: #999;
+    text-align: right;
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    margin: 30px 0 15px;
+    color: #333;
+  }
+  
+  strong {
+    color: #007BFF;
+  }
+  .Social-Sharing ul li a img{
+    width: 50px;
+    border-radius: 10px;
+    margin: 5px;
+  }
+  .Social-Sharing ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    list-style: none;
+  }
+  
+  @media(max-width:1100px){
+    .Social-Sharing ul li a img{
+        width: 20px;
+        border-radius: 10px;
+        
+  
+  }
